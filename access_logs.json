@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "ip": "::1",
+        "date": "2024-06-16T15:44:59",
+        "request": "\"GET /var/www/html/index.html HTTP/1.1\"",
+        "status": 404,
+        "size": 488
+    },
+    {
+        "id": 2,
+        "ip": "::1",
+        "date": "2024-06-16T15:44:59",
+        "request": "\"GET /favicon.ico HTTP/1.1\"",
+        "status": 404,
+        "size": 487
+    },
+    {
+        "id": 3,
+        "ip": "::1",
+        "date": "2024-06-16T15:45:30",
+        "request": "\"GET /var/www/html HTTP/1.1\"",
+        "status": 404,
+        "size": 488
+    },
+    {
+        "id": 4,
+        "ip": "::1",
+        "date": "2024-06-16T15:46:17",
+        "request": "\"GET /var/www/html/index.html HTTP/1.1\"",
+        "status": 404,
+        "size": 488
+    },
+    {
+        "id": 5,
+        "ip": "::1",
+        "date": "2024-06-16T15:47:07",
+        "request": "\"-\" 408 0",
+        "status": null,
+        "size": null
+    },
+    {
+        "id": 6,
+        "ip": "192.168.0.2",
+        "date": "2024-06-16T15:48:11",
+        "request": "\"GET /favicon.ico HTTP/1.1\"",
+        "status": 404,
+        "size": 491
+    },
+    {
+        "id": 7,
+        "ip": "192.168.0.2",
+        "date": "2024-06-16T15:48:22",
+        "request": "\"GET /var/www/html HTTP/1.1\"",
+        "status": 404,
+        "size": 491
+    },
+    {
+        "id": 8,
+        "ip": "192.168.0.2",
+        "date": "2024-06-16T15:48:22",
+        "request": "\"GET /favicon.ico HTTP/1.1\"",
+        "status": 404,
+        "size": 490
+    },
+    {
+        "id": 9,
+        "ip": "192.168.0.2",
+        "date": "2024-06-16T15:48:38",
+        "request": "\"GET /var/www/html/index.html HTTP/1.1\"",
+        "status": 404,
+        "size": 491
+    },
+    {
+        "id": 10,
+        "ip": "192.168.0.2",
+        "date": "2024-06-16T15:48:56",
+        "request": "\"GET /var/www/html/index.html/ HTTP/1.1\"",
+        "status": 404,
+        "size": 491
+    }
+]
